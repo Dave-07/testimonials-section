@@ -119,6 +119,9 @@ body{
     #testimonial-1, #testimonial-3 {
         margin-left: 15px;
     }
+    #paraSize {
+        font-size: 1.1rem;
+    }
 }
 
 
